@@ -13,6 +13,8 @@
 ## What is it?
 SweetSpotter is a minimalist golf training aid designed to give you instant visual feedback on where you strike the clubface. It uses common materials — foam balls and reusable putty — to simulate impact and reveal strike location. It’s safe, quiet, and perfect for at-home practice.
 
+Note: While various commercial and DIY training aids exist — including foot spray and even a patented velcro-based solution from 2005 — SweetSpotter is distinct in its use of **reusable tacky putty** and **foam balls**, designed specifically for open-source distribution and non-commercial use.
+
 ---
 
 ## Why use it?
