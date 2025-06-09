@@ -1,3 +1,5 @@
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
+
 # SweetSpotter
 
 **A no-tech, open-source golf impact trainer using foam balls and tacky putty. Stick it. Spot it. Improve.**
