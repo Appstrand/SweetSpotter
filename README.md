@@ -35,8 +35,7 @@ SweetSpotter is a minimalist golf training aid designed to give you instant visu
 
 ## Get Started
 
-📄 [Download the SweetSpotter Guide (PDF)](link-to-file)  
-📋 [View the Cheat Sheet](link-to-image-or-markdown)  
+📄 [Download the SweetSpotter Guide (PDF)](https://appstrand.github.io/SweetSpotter/SweetSpotter_Guide.pdf)  
 
 ---
 
