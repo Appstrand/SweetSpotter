@@ -52,7 +52,7 @@ Developed by Andreas Pihlstrand & Chip — a golfer, a dev, and an AI with a lov
 ## Support
 
 If this helped your game or made you smile, consider supporting future side projects:  
-☕ [Buy me a coffee](https://your-link-here)
+☕ [Buy me a coffee](https://coff.ee/appstrand)
 
 ---
 
